@@ -38,6 +38,7 @@ export const SearchForm = styled(Form)`
 
 export const Input = styled(Field)`
   display: inline-block;
+  height: 100%;
   width: 100%;
   font: inherit;
   font-size: 20px;
